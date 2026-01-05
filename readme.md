@@ -81,10 +81,13 @@ Alt arbeid skal ligge i GitHub-repoet:
 
 ## Dokumentasjon
 I repoet skal det ligge:
-- kort beskrivelse av idéen
+- kort besvarelse av oppgavene
 - wireframe (bilde eller lenke)
-- refleksjon rundt universell utforming og personvern
 - ferdig prototype eller nettsidekode
+
+Teksten skal leveres som markdown via GitHub. Mer info: https://www.markdownguide.org/basic-syntax/
+
+Link til GitHub leveres via Teams.
 
 ---
 
